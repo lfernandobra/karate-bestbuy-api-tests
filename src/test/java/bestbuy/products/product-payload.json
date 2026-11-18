@@ -1,0 +1,12 @@
+{
+  "name": "Karate Wireless Mouse",
+  "type": "HardGood",
+  "price": 29.99,
+  "upc": "012345678905",
+  "shipping": 5.99,
+  "description": "Ergonomic wireless mouse for Karate API automated tests",
+  "manufacturer": "KarateLabs",
+  "model": "KL-MOUSE-01",
+  "url": "https://example.com/products/kl-mouse-01",
+  "image": "https://example.com/images/kl-mouse-01.png"
+}
